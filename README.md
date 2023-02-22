@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergeyRuchkov
+- 👋 Hi, I’m @SergeyKalantay
 - 👀 I'm interested in writing applications in Python, I want to learn how to do it right.
 - 🌱 I am now a cybersecurity specialist by profession and learning the python language.
 - 💞️ I’m looking to collaborate on .
